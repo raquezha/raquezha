@@ -9,7 +9,6 @@ Just another sleepy dev and I write stuff.<br/>Goodnight fam! ✨<br/>
 I spend my time on Gitlab and do open source here.
 Look at my code stats! https://codestats.net/users/raquezha
 
-# 
 #  
 #  
 ## ⚡ Stats
