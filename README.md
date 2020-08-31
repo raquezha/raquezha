@@ -19,10 +19,10 @@ Look at my code stats! https://codestats.net/users/raquezha
 </a>
 
 ### 💬 Where to find me:
-- Twitter: https://twitter.com/raquezha
-- Medium: https://medium.com/@raquezha
-- Instagram: https://www.instagram.com/raquezha.exe/
-- Website: https://hellopoetry.com/raquezha/
+<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/raquezha<br/>
+<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />  https://medium.com/@raquezha<br/>
+<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  https://www.instagram.com/raquezha.exe/<br/>
+<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg" />  https://hellopoetry.com/raquezha/<br/>
 
 ---
 [![HitCount](http://hits.dwyl.com/raquzeha/{project}.svg)](http://hits.dwyl.com/raquzeha/{project})
