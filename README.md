@@ -7,7 +7,7 @@
 Just another sleepy dev and I write stuff.<br/>Goodnight fam! ✨ Kotlin is Life!
 <br/>
 
-I spend my time on Gitlab and do open source here.<br/>
+I spend most of my time on [Gitlab](http://gitlab.com/raquezha) and I spend my other time doing open source here on Github.<br/>
 Look at my code stats! https://codestats.net/users/raquezha<br/>
 
 #
@@ -33,3 +33,4 @@ Look at my code stats! https://codestats.net/users/raquezha<br/>
 
 ---
 [![HitCount](http://hits.dwyl.com/raquzeha/{project}.svg)](http://hits.dwyl.com/raquzeha/{project})
+--
