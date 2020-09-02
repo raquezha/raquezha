@@ -33,5 +33,5 @@ Look at my code stats! https://codestats.net/users/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />  https://soundcloud.com/raquezha<br/>
 
 ---
-[![HitCount](http://hits.dwyl.com/raquzeha/{project}.svg)](http://hits.dwyl.com/raquzeha/{project})
+[![HitCount](http://hits.dwyl.com/raquezha/{project}.svg)](http://hits.dwyl.com/raquezha/{project})
 --
