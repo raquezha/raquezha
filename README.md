@@ -1,7 +1,7 @@
 <!--
 **raquezha/raquezha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 
-# raquezha 👋 
+# raquezha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <p><img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/6DNtXFxz7RHxK/giphy.gif"><p>
 Just another sleepy dev and I write stuff.<br/>Goodnight fam! ✨ Kotlin is Life!
