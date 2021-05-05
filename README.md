@@ -22,7 +22,7 @@ Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
 
 
 ### 💬 Where to find me:
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /> https://dev.to/raquezha<br/>
+<img height="16" width="24" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> http://gitlab.com/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />  https://medium.com/@raquezha<br/>
