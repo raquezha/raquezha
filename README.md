@@ -33,7 +33,3 @@ Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/applemusic.svg" />  http://bit.ly/raquezhamusic<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />  https://www.facebook.com/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />  https://soundcloud.com/raquezha<br/>
-
----
-[![HitCount](http://hits.dwyl.com/raquezha/raquezha.svg)](http://hits.dwyl.com/raquezha/raquezha)
---
