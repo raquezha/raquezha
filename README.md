@@ -20,7 +20,7 @@ Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquezha&layout=compact&show_icons=true" />
 </a>
 
-
+<!--
 ### 💬 Where to find me:
 <img height="16" width="24" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> http://gitlab.com/raquezha<br/>
@@ -33,3 +33,4 @@ Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/applemusic.svg" />  http://bit.ly/raquezhamusic<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />  https://www.facebook.com/raquezha<br/>
 <img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />  https://soundcloud.com/raquezha<br/>
+!-->
