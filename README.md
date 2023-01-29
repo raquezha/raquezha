@@ -10,6 +10,8 @@ https://dev.to/raquezha
 
 I spend most of my time on [Gitlab](http://gitlab.com/raquezha) and I spend my other time doing open source here on Github.<br/>
 Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
+  
+I'm current a Senior Android Engineer @ [Nueca](https://nueca.com.ph/)
 
 #
 #  
