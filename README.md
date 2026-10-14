@@ -1,33 +1,19 @@
-<!--
-**raquezha/raquezha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
-
 # raquezha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<p><img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/6DNtXFxz7RHxK/giphy.gif"><p>
-Just another sleepy dev and I write stuff.<br/>Goodnight fam! ✨ Kotlin is Life!<br>
-https://dev.to/raquezha
-<br/>
+<p><img width="200" alt="hello!" align="left" src="https://media.giphy.com/media/6DNtXFxz7RHxK/giphy.gif"></p>
 
-I spend most of my time on [Gitlab](http://gitlab.com/raquezha) and I spend my other time doing open source here on Github.<br/>
-Look at my [code stats!](https://codestats.net/users/raquezha)<br/>
-  
-I'm current a Senior Android Engineer @ [Nueca](https://nueca.com.ph/)
+Senior Android Developer at Nueca. Android since 2015, mostly Kotlin, and growing into Kotlin Multiplatform.
 
-#
-#  
-#  
+**What I work on**
+- Android apps in Kotlin, including the [Tindahang Tapat Delivery app](https://play.google.com/store/apps/details?id=net.nueca.tindahangtapat.delivery)
+- CI/CD and release automation for mobile
+- Helping people adopt AI tools in their daily work
 
-<!--
-### 💬 Where to find me:
-<img height="16" width="24" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /> http://gitlab.com/raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />  https://medium.com/@raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />  https://www.instagram.com/raquezha.exe/<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg" />  https://hellopoetry.com/raquezha/<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />  https://sptfy.com/raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bandcamp.svg" />  https://raquezha.bandcamp.com//<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/applemusic.svg" />  http://bit.ly/raquezhamusic<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />  https://www.facebook.com/raquezha<br/>
-<img height="16" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />  https://soundcloud.com/raquezha<br/>
-!-->
+**Side projects**
+- [nothing](https://github.com/raquezha/nothing): a local-first agentic dev environment
+- [nuecagram](https://github.com/raquezha/nuecagram): GitLab to Telegram notifications
+
+<br clear="left"/>
+
+**Elsewhere**
+- [GitLab](https://gitlab.com/raquezha) · [dev.to](https://dev.to/raquezha)
